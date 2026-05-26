@@ -211,27 +211,6 @@ Model predicts:
 
 ---
 
-# 🔮 Future Improvements
-
-- GUI Interface
-- Deep Learning Recognition
-- Database Integration
-- Attendance System
-- Multiple Face Tracking
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome.
-
-Fork the repository.
-
-Create your feature branch.
-
-Submit a Pull Request.
-
----
 
 # 📜 License
 
